@@ -60,3 +60,39 @@ React.js
 React Router for navigation
 Axios for API calls
 CSS for styling
+
+**Setup Instructions**
+
+**1. Prerequisites**
+Ensure you have the following installed:
+
+Node.js (v14 or higher)
+MongoDB
+
+**2. Clone the Repository**
+git clone https://github.com/your-username/online-bookstore.git  
+cd online-bookstore  
+
+**3. Backend Setup**
+
+**Navigate to the backend folder:**
+cd backend  
+
+**Install dependencies:**
+npm install
+
+**Start the backend server**
+node index.js
+
+**4. Frontend Setup**
+
+**Navigate to the frontend folder**:
+cd frontend  
+
+**Install dependencies:**
+npm install  
+
+**Start the development server**
+npm start  
+
+
