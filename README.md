@@ -70,7 +70,8 @@ Node.js (v14 or higher)
 MongoDB
 
 **2. Clone the Repository**
-git clone https://github.com/your-username/online-bookstore.git  
+**write command on cmd**
+git clone https://github.com/vivekdhyani69/assignment.git
 cd online-bookstore  
 
 **3. Backend Setup**
